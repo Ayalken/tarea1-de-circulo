@@ -1,0 +1,52 @@
+*
+{
+    margin: 0px;
+}
+.blanco
+{
+    background-color: aliceblue;
+    padding: 20px;
+}
+.color1
+{
+    width: 100px;
+    height: 100PX;
+    background-color: aqua;
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+}
+.circulo2
+{
+    background-color: rgb(0, 255, 21);
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+}
+
+.circulo3
+{
+    background-color: rgb(68, 0, 255);
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+}
+
+.circulo4
+{
+    background-color: rgb(255, 0, 170);
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+}
+
+.circulo5
+{
+    background-color: rgb(255, 187, 0);
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+}
+
+.circulo6
+{
+    background-color: rgb(255, 0, 13);
+    padding: 10px 10px 10px 10px;
+    border-radius: 50%;
+}
+
